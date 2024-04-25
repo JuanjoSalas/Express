@@ -1,6 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+![Banner](https://github.com/JuanjoSalas/Express/assets/161235632/2c59343b-53b1-4bd2-b4d7-2a76a2a6814a)
 
 # Ejercicios Express
 
